@@ -1,7 +1,7 @@
 <img src="background1.gif" height="400" width="1050">
 <h1 align="center">                            Hi there, I'm <a href="https://www.linkedin.com/in/mastan-sayyad-126904223/">Aman Kumar Sah</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 <h3 align="center">Frontend Developer | Backend Enthusiast | Video Editor </h3>
-<img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" padding="10" width="250"/>
+<img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image"  width="250" style="margin-left: 20px; padding: 10px;"/>
 
 # 💫 About Me:
 - 🌱 Currently Working On: Visual Sort
