@@ -1,5 +1,5 @@
 <img src="background1.gif" height="400" width="1050">
-<h1 align="center"><br><br> <br>Hi there, I'm <a href="https://www.linkedin.com/in/mastan-sayyad-126904223/">Aman Kumar Sah</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/mastan-sayyad-126904223/">Aman Kumar Sah</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 <h3 align="center">Frontend Developer | Backend Enthusiast | Video Editor | Cybersecurity Enthusiast</h3>
 
 <!--<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/mastan-sayyad-126904223/">Mastan Sayyad</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
