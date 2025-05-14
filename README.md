@@ -43,7 +43,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
     <a href="https://x.com/sah_aman28574">
     <img src="https://skillicons.dev/icons?i=twitter" />
-     <a href="[https://www.instagram.com/kartikmehta.png/](https://www.instagram.com/iam.amansah?igsh=MzBtNmp3aGFjYmkx)">
+     <a href="[[https://www.instagram.com/kartikmehta.png](https://www.instagram.com/iam.amansah?igsh=MzBtNmp3aGFjYmkx)/](https://www.instagram.com/iam.amansah?igsh=MzBtNmp3aGFjYmkx)">
     <img src="https://skillicons.dev/icons?i=instagram" />
 <!--     <a href="[https://www.instagram.com/kartikmehta.png/](https://www.instagram.com/iam.amansah?igsh=MzBtNmp3aGFjYmkx)"> -->
 <!--     <img src="https://skillicons.dev/icons?i=instagram" /> -->
