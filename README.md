@@ -54,7 +54,7 @@
 
 <p><h3 align="left">Languages and Tools:</h3></p>
 
-[![Languages and Tools:](https://skillicons.dev/icons?i=js,react,vite,typescript,nodejs,mongodb,express,redux,html,css,bootstrap,java,c,cpp,mysql,py,tailwind,figma,git,github,replit,postman,docker,appwrite,firebase,remix,solidity,vercel,pr,ps,xd,ai,ae,poligon)]()
+[![Languages and Tools:](https://skillicons.dev/icons?i=java,c,cpp,js,html,css,js,mysql,bootstrap,react,vite,typescript,nodejs,mongodb,express,redux,tailwind,figma,replit,postman,docker,appwrite,firebase,vercel,windows,linux,git,github,gcp,aws,bash,idea,eclipse,notion,replit,pr,ps,ai,ae)]()
 
 <!--## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-sah-/)
