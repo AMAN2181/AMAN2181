@@ -6,11 +6,10 @@
 # 💫 About Me:
 - 🌱 Currently Working On: Visual Sort
 - 💬  Ask Me About: JAVA, SQL, Web Development, Marvel movies,Cooking or anything.
-- 🚀 Enthusiastic Computer Science student, passionate about web development and cybersecurity.
-- 🌱 I’m currently learning - Node.js, Advanced Backend Development, and Real-Time Applications.
+- 🚀 Enthusiastic Computer Science student, passionate about web development.
+- 🌱 I’m currently learning - Node.js, Advanced Backend Development.
 - ⚡ About Me: A Kuudere with a touch of intelligence.
 - 💎 Smart + Hard work + Quick Adaptation + Critical Thinking + Honesty
-- 🌎 I Know English, Hindi .
 
 # 🔥 Projects:
 - **[YourSpace](https://your-space-zeta.vercel.app/)** - A Real Estate application built with React, Node.js, MongoDB.
