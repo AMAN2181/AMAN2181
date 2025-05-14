@@ -13,6 +13,8 @@
 -  🌱 I’m currently learning - Node.js, Advanced Backend Development.
 - ⚡ About Me: **A Kuudere with a touch of intelligence.** <br>
 - 💎 Smart + Hard work + Quick Adaptation + Critical Thinking + Honesty <br>
+<br>
+<br>
 
 
 
