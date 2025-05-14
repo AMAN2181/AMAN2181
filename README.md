@@ -5,8 +5,6 @@
 
 
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image"  width="250" style="margin-left: 20px; padding: 10px;"/>
-
-# 💫 About Me:
 - 🌱 Currently Working On: Visual Sort
 - 💬  Ask Me About: JAVA, SQL, Web Development, Marvel movies,Cooking or anything.
 - 🚀 Enthusiastic Computer Science student, passionate about web development.
