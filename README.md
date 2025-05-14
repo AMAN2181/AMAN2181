@@ -1,6 +1,6 @@
 <img src="background1.gif" height="400" width="1050">
-<h1 align="center">Hello👋, I'm Pujan Sarkar</h1>
-<h3 align="center">Frontend Developer | Backend Enthusiast | Open Source Contributor | Cybersecurity Enthusiast | CTF Player 🚩</h3>
+<h1 align="center">Hello👋, I'm Aman Kumar Sah</h1>
+<h3 align="center">Frontend Developer | Backend Enthusiast | Video Editor </h3>
 
 # 💫 About Me:
 - 🚀 Enthusiastic Computer Science student, passionate about web development and cybersecurity.
@@ -9,23 +9,17 @@
 - 💡 Ask me about - Web Development, JavaScript, and Cybersecurity.
 
 # 🔥 Projects:
-- **[Pathway](https://pathwayabout.vercel.app/)** - A real-time chat web application built with React, Node.js, MongoDB, and Socket.IO.
-- **[Fix-Up](https://github.com/RIO-Repository/Fix-Up)** - Service appointment booking platform (MERN stack) for electricians, carpenters, and more.
-- **[Care](https://care-nine.vercel.app/)** - Employment and e-waste marketplace leveraging geolocation and real-time data (Docker, Express.js, Tailwind CSS).
-- **[FarmLoc](https://drive.google.com/file/d/1-QRuvi1qCbZgSoyblV7GTM2cidCNcSK4/view?usp=drivesdk)** - Agricultural app for locating cold storage and boosting farmer incomes.
+- **[YourSpace](https://your-space-zeta.vercel.app/)** - A Real Estate application built with React, Node.js, MongoDB.
+- **[SehatSaathi](https://github.com/RIO-Repository/Fix-Up)** - An all-in-one fitness, nutrition, and health tracking web application platform built with React, Node.js, MongoDB.
+- **[CineStream](https://aman-sah.github.io/Movie-App/)** - A responsive movie app built with HTML, CSS, and JavaScript..
 
 # 📚 Education:
-**Bachelor of Engineering in CSE** - University Institute of Technology, The University of Burdwan (2022 - 2026)
-
-# ⚡ Experience:
-- **Girlscript Summer of Code 2024**: Contributor & Project Mentor (Present)
-- **Hacktoberfest 2024**: Contributor
-- **Social Summer of Code Season 3**: Contributor
+**Bachelor of Engineering in CSE** - Chitkara University, Punjab (2022 - 2025)
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pujan-sarkar)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pujan-sarkar)
-[![Email](https://img.shields.io/badge/Email-cse.20221011.uitbu@gmail.com-informational?style=for-the-badge&logo=gmail)](mailto:cse.20221011.uitbu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-sah-/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aman-sah)
+[![Email](https://img.shields.io/badge/Email-cse.20221011.uitbu@gmail.com-informational?style=for-the-badge&logo=gmail)](mailto:amansah2181@gmail.com)
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -52,22 +46,14 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pujan-sarkar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pujan-sarkar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pujan-sarkar&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=aman-sah&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aman-sah&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-sah&theme=dark&hide_border=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Pujan-sarkar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=aman-sah&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🏆 GSSOC Badges:
-<div style="display:flex; justify-content:center; gap:10px;">
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-<img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-<img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-<img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-<img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-<img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-<img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
+
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=Pujan-sarkar&icon=0&color=0)](https://visitcount.itsvg.in)
