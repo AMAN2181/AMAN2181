@@ -1,12 +1,16 @@
 <img src="background1.gif" height="400" width="1050">
-<h1 align="center">Hello👋, I'm Aman Kumar Sah</h1>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/mastan-sayyad-126904223/">Mastan Sayyad</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 <h3 align="center">Frontend Developer | Backend Enthusiast | Video Editor </h3>
+<img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
 
 # 💫 About Me:
+- 🌱 Currently Working On: Visual Sort
+- 💬  Ask Me About: JAVA, SQL, Web Development, Marvel movies,Cooking or anything.
 - 🚀 Enthusiastic Computer Science student, passionate about web development and cybersecurity.
-- 🌱 Currently building real-world applications and contributing to open-source projects.
 - 🌱 I’m currently learning - Node.js, Advanced Backend Development, and Real-Time Applications.
-- 💡 Ask me about - Web Development, JavaScript, and Cybersecurity.
+- ⚡ About Me: A Kuudere with a touch of intelligence.
+- 💎 Smart + Hard work + Quick Adaptation + Critical Thinking + Honesty
+- 🌎 I Know English, Hindi .
 
 # 🔥 Projects:
 - **[YourSpace](https://your-space-zeta.vercel.app/)** - A Real Estate application built with React, Node.js, MongoDB.
