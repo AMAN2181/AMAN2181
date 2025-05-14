@@ -35,9 +35,11 @@
 - **[SehatSaathi](https://github.com/RIO-Repository/Fix-Up)** - An all-in-one fitness, nutrition, and health tracking web application platform built with React, Node.js, MongoDB.
 - **[CineStream](https://aman-sah.github.io/Movie-App/)** - A responsive movie app built with HTML, CSS, and JavaScript..
 
-# 📚 Education:
+<!--# 📚 Education:
 **Bachelor of Engineering in CSE** - Chitkara University, Punjab (2022 - 2025)
-<!--<h3 align="left">Connect with me:</h3>-->
+-->
+<!--<h3 align="left">Connect with me:</h3-->
+
 
 # 🌐 Connect with me:
 <p align="left">
