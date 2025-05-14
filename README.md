@@ -37,8 +37,27 @@
 
 # 📚 Education:
 **Bachelor of Engineering in CSE** - Chitkara University, Punjab (2022 - 2025)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/aman-sah-/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <a href="https://x.com/sah_aman28574">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+     <a href="[https://www.instagram.com/kartikmehta.png/](https://www.instagram.com/iam.amansah?igsh=MzBtNmp3aGFjYmkx)">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+    <a href="[https://www.instagram.com/kartikmehta.png/](https://www.instagram.com/iam.amansah?igsh=MzBtNmp3aGFjYmkx)">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+    <a href="mailto:amansah2181@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+</a>
+    
+  </a>
 
-## 🌐 Connect with Me:
+<p><h3 align="left">Languages and Tools:</h3></p>
+
+[![Languages and Tools:](https://skillicons.dev/icons?i=js,react,vite,typescript,nodejs,mongodb,express,redux,html,css,bootstrap,java,c,cpp,mysql,py,tailwind,figma,git,github,replit,postman,docker,appwrite,firebase,remix,solidity,vercel,pr,ps,xd,ai,ae,poligon)]()
+
+<!--## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-sah-/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aman-sah)
 [![Email](https://img.shields.io/badge/Email-amansah2181@gmail.com-informational?style=for-the-badge&logo=gmail)](mailto:amansah2181@gmail.com)
@@ -66,6 +85,8 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+-->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aman-sah&theme=dark&hide_border=false)<br/>
