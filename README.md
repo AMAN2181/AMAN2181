@@ -45,12 +45,11 @@
     <img src="https://skillicons.dev/icons?i=twitter" />
      <a href="[https://www.instagram.com/kartikmehta.png/](https://www.instagram.com/iam.amansah?igsh=MzBtNmp3aGFjYmkx)">
     <img src="https://skillicons.dev/icons?i=instagram" />
-    <a href="[https://www.instagram.com/kartikmehta.png/](https://www.instagram.com/iam.amansah?igsh=MzBtNmp3aGFjYmkx)">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+<!--     <a href="[https://www.instagram.com/kartikmehta.png/](https://www.instagram.com/iam.amansah?igsh=MzBtNmp3aGFjYmkx)"> -->
+<!--     <img src="https://skillicons.dev/icons?i=instagram" /> -->
     <a href="mailto:amansah2181@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-</a>
-    
+<!-- </a> -->
   </a>
 
 <p><h3 align="left">Languages and Tools:</h3></p>
