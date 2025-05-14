@@ -6,7 +6,7 @@
 -->
 
 <!--<img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>-->
-<img align="right" alt="Code " src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=ecf05e47wriar6jmlt8qts6w4no95x9za1b4jjfv7tr2f7fq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="320"> 
+<img align="right" alt="Code " src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=ecf05e47wriar6jmlt8qts6w4no95x9za1b4jjfv7tr2f7fq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="220"> 
 
 - 🌱 **Currently Working On:** [YourSpace](https://your-space-zeta.vercel.app/)<br>
 - 💬 Ask Me About: JAVA, JAVASCRIPT, SQL, Marvel movies, Cooking or anything.. <br>
