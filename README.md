@@ -49,6 +49,8 @@
 <!--     <img src="https://skillicons.dev/icons?i=instagram" /> -->
     <a href="mailto:amansah2181@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+   <a href="https://discordapp.com/users/aman_sah_">
+  <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
 <!-- </a> -->
   </a>
 
