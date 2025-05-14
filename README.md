@@ -111,7 +111,7 @@
 <td>
   <!--<img width="420em" src="https://github.com/user-attachments/assets/8029244a-c064-4699-b1fd-d6573978d5d1" alt="Streak Stats"/>-->
    <!--<img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=aman-sah&theme=radical" alt="GitHub Streak Stats"/>-->
-  <img width="420em" src="https://streak-stats.demolab.com?user=aman-sah&theme=radical" alt="GitHub Streak Stats"/>
+  <img width="420em" src="https://streak-stats.demolab.com/?user=aman-sah&theme=radical" alt="GitHub Streak Stats"/>
 
 
 </td>
