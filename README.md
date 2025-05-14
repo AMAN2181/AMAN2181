@@ -43,17 +43,13 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
     <a href="https://x.com/sah_aman28574">
     <img src="https://skillicons.dev/icons?i=twitter" />
-     
-<!--     <a href="[https://www.instagram.com/kartikmehta.png/](https://www.instagram.com/iam.amansah?igsh=MzBtNmp3aGFjYmkx)"> -->
-<!--     <img src="https://skillicons.dev/icons?i=instagram" /> -->
-    <a href="mailto:amansah2181@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  <a href="mailto:amansah2181@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Discord" />
    <a href="https://discordapp.com/users/aman_sah_">
   <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
 
    <a href="https://www.instagram.com/iam.amansah/">
     <img src="https://skillicons.dev/icons?i=instagram" />
-<!-- </a> -->
   </a>
 
 <p><h3 align="left">Languages and Tools:</h3></p>
