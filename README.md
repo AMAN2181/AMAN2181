@@ -34,11 +34,11 @@
 - **[YourSpace](https://your-space-zeta.vercel.app/)** - A Real Estate application built with React, Node.js, MongoDB.
 - **[SehatSaathi](https://github.com/RIO-Repository/Fix-Up)** - An all-in-one fitness, nutrition, and health tracking web application platform built with React, Node.js, MongoDB.
 - **[CineStream](https://aman-sah.github.io/Movie-App/)** - A responsive movie app built with HTML, CSS, and JavaScript..
-<br>
+
 # 📚 Education:
 **Bachelor of Engineering in CSE** - Chitkara University, Punjab (2022 - 2025)
 <!--<h3 align="left">Connect with me:</h3>-->
-<br>
+
 # 🌐 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/aman-sah-/">
@@ -55,7 +55,7 @@
   </a>
 
 <!--<p><h3 align="left">Languages and Tools:</h3></p>-->
-<br>
+
 # 🧑‍💻 Languages and Tools:
 
 [![Languages and Tools:](https://skillicons.dev/icons?i=java,c,cpp,js,html,css,js,mysql,bootstrap,react,vite,typescript,nodejs,mongodb,express,redux,tailwind,figma,replit,postman,docker,appwrite,firebase,vercel,windows,linux,git,github,gcp,aws,bash,vscode,idea,eclipse,notion,replit,ps,ai,ae)]()
@@ -90,12 +90,12 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 -->
-<br>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aman-sah&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aman-sah&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-sah&theme=dark&hide_border=false&layout=compact)
-<br>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aman-sah&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
