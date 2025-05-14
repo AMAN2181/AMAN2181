@@ -19,7 +19,7 @@
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-sah-/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aman-sah)
-[![Email](https://img.shields.io/badge/Email-cse.20221011.uitbu@gmail.com-informational?style=for-the-badge&logo=gmail)](mailto:amansah2181@gmail.com)
+[![Email](https://img.shields.io/badge/Email-amansah2181@gmail.com-informational?style=for-the-badge&logo=gmail)](mailto:amansah2181@gmail.com)
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
