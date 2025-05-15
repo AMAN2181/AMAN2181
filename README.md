@@ -39,7 +39,7 @@
 **Bachelor of Engineering in CSE** - Chitkara University, Punjab (2022 - 2025)
 -->
 <!--<h3 align="left">Connect with me:</h3-->
-
+<br>
 
 # 🌐 Connect with me:
 <p align="left">
@@ -57,7 +57,7 @@
   </a>
 
 <!--<p><h3 align="left">Languages and Tools:</h3></p>-->
-
+<br>
 # 🧑‍💻 Languages and Tools:
 
 [![Languages and Tools:](https://skillicons.dev/icons?i=java,c,cpp,js,html,css,js,mysql,bootstrap,react,vite,typescript,nodejs,mongodb,express,redux,tailwind,figma,replit,postman,docker,appwrite,firebase,vercel,windows,linux,git,github,gcp,aws,bash,vscode,idea,eclipse,notion,replit,ps,ai,ae)]()
