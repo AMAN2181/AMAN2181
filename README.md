@@ -54,7 +54,7 @@
 
    <a href="https://www.instagram.com/iam.amansah/">
     <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+<!--   </a> -->
 
 <!--<p><h3 align="left">Languages and Tools:</h3></p>-->
 <br>
