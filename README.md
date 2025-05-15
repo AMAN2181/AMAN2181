@@ -108,7 +108,8 @@
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=aman-sah&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
 </td>
 <td>
-  <img width="420em" src="https://github.com/user-attachments/assets/8029244a-c064-4699-b1fd-d6573978d5d1" alt="Streak Stats"/>
+<!--   <img width="420em" src="https://github.com/user-attachments/assets/8029244a-c064-4699-b1fd-d6573978d5d1" alt="Streak Stats"/> -->
+   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aman-sah&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
    <!--<img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=aman-sah&theme=radical" alt="GitHub Streak Stats"/>-->
 <!--   <img width="420em" src="https://streak-stats.demolab.com/?user=aman-sah&theme=radical" alt="GitHub Streak Stats"/> -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aman-sah&theme=radical)](https://git.io/streak-stats) -->
