@@ -105,7 +105,8 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=aman-sah&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
+<!--   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=aman-sah&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/> -->
+   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=aman-sah&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </td>
 <td>
 <!--   <img width="420em" src="https://github.com/user-attachments/assets/8029244a-c064-4699-b1fd-d6573978d5d1" alt="Streak Stats"/> -->
