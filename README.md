@@ -13,7 +13,7 @@
 
 > I do not fear bugs, I just negotiate with them until they disappear.
 
-# 🔥 Projects:
+# Projects:
 - **[YourSpace](https://your-space-zeta.vercel.app/)** - A Real Estate application built with React, Node.js, MongoDB.
 - **[SehatSaathi](https://github.com/RIO-Repository/Fix-Up)** - An all-in-one fitness, nutrition, and health tracking web application platform built with React, Node.js, MongoDB.
 - **[CineStream](https://aman-sah.github.io/Movie-App/)** - A responsive movie app built with HTML, CSS, and JavaScript..
