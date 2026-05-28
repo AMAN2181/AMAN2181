@@ -3,6 +3,7 @@
 
 <div>
   <h1 align="center">Hi, I am <i><s>Spiderman!</s></i> Aman Sah</h1>
+  <h3 align="center">Software Engineer|Exploring AI & LLMs | Video Editor </h3>
   <h3 align="center">Writing code that works on my machine and yours. Hopefully.</h3>
 </div>
 
