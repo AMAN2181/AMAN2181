@@ -23,9 +23,29 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aman-sah&theme=dracula)
+<br>
 
-<img src="https://github-readme-stats-rhythm.vercel.app/api?username=SandeepVashishtha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aman-sah&theme=radical" alt="Profile Summary">
+</td>
+</tr>
+</table>
+
+<table width="100%" align="center">
+<tr>
+<td>
+
+   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=aman-sah&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+</td>
+<td>
+
+   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aman-sah&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+ 
+
+
+</td>
 
 <img src="https://github-readme-stats-rhythm.vercel.app/api/top-langs?username=SandeepVashishtha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
