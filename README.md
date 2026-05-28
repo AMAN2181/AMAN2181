@@ -2,16 +2,14 @@
 
 
 <div>
-  <h1 align="center">Hi, I am <i><s>Spiderman!</s></i> A-man Sah</h1>
+  <h1 align="center">Hi, I am <i><s>Spiderman!</s></i> Aman Sah</h1>
   <h3 align="center">Writing code that works on my machine and yours. Hopefully.</h3>
 </div>
 
-## About Me  
-Hi, I am **Aman Sah**, a developer who writes code that sometimes works exactly as planned  
-
-- **B.E. Computer Science and Engineering (2022–2026)** – Chandigarh University  
-- **Open Source Contributor** | **GSSoC 2025 Project Admin**  
-- **Tech Stack:** React, Spring Boot, Java, MySQL  
+- About Me: Hi, I am **Aman Sah**, a developer who writes code that sometimes works exactly as planned 
+- **Currently Working On:** [YourSpace](https://your-space-zeta.vercel.app/)<br>
+- I’m currently learning - Node.js, Advanced Backend Development. 
+- **Tech Stack:** React, Spring Boot, Java, MySQL 
 
 > I do not fear bugs, I just negotiate with them until they disappear.
 
@@ -20,7 +18,7 @@ Hi, I am **Aman Sah**, a developer who writes code that sometimes works exactly 
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SandeepVashishtha&theme=dracula)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aman-sah&theme=dracula)
 
 <img src="https://github-readme-stats-rhythm.vercel.app/api?username=SandeepVashishtha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
 
