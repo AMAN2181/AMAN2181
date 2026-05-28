@@ -1,22 +1,19 @@
-![](https://komarev.com/ghpvc/?username=sandeepvashishtha) 
-![LeetCode Contest Rating](https://leet-code-contest-rating.vercel.app/api/rating?username=sandeepvashishtha)
-<a href="https://wakatime.com/@4cd19b97-26c7-4594-acb3-eb53ad1ebff1">
-  <img src="https://wakatime.com/badge/user/4cd19b97-26c7-4594-acb3-eb53ad1ebff1.svg" alt="Total time coded since Apr 30 2024" />
-</a>
+![](https://komarev.com/ghpvc/?username=aman-sah) 
+
 
 <div>
-  <h1 align="center">Hi, I am <i><s>Batman!</s></i> Sandeep Vashishtha</h1>
-  <h3 align="center">I write code that runs everywhere, even on your cat’s laptop</h3>
+  <h1 align="center">Hi, I am <i><s>Spiderman!</s></i> A-man Sah</h1>
+  <h3 align="center">Writing code that works on my machine and yours. Hopefully.</h3>
 </div>
 
 ## About Me  
-Hi, I am **Sandeep Vashishtha**, a developer who writes code that sometimes works exactly as planned  
+Hi, I am **Aman Sah**, a developer who writes code that sometimes works exactly as planned  
 
 - **B.E. Computer Science and Engineering (2022–2026)** – Chandigarh University  
 - **Open Source Contributor** | **GSSoC 2025 Project Admin**  
 - **Tech Stack:** React, Spring Boot, Java, MySQL  
 
-> I do not just fix bugs, I stick with them until they start acting right  
+> I do not fear bugs, I just negotiate with them until they disappear.
 
 
 <h3 align="left">My Stats:</h3>
