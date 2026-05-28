@@ -10,7 +10,7 @@
 - About Me: Hi, I am **Aman Sah**, a developer who writes code that sometimes works exactly as planned 
 - **Currently Working On:** [YourSpace](https://your-space-zeta.vercel.app/)<br>
 - I’m currently learning - Node.js, Advanced Backend Development. 
-- **Tech Stack:** Java, Python, JavaScript, React, Node.js,, MySQL 
+- **Tech Stack:** Java, Python, JavaScript, React, Node.js, MySQL 
 
 > I do not fear bugs, I just negotiate with them until they disappear.
 
