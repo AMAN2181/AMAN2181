@@ -4,7 +4,6 @@
 <div>
   <h1 align="center">Hi, I am <i><s>Ironrman!</s></i> Aman Sah</h1>
   <h3 align="center">Software Engineer | Exploring AI & LLMs | Video Editor </h3>
-  <h3 align="center">Writing code that works on my machine and yours. Hopefully.</h3>
 </div>
 
 - About Me: Hi, I am **Aman Sah**, a developer who writes code that sometimes works exactly as planned 
@@ -12,8 +11,7 @@
 - I’m currently learning - Node.js, Advanced Backend Development. 
 - **Tech Stack:** Java, Python, JavaScript, React, Node.js, MySQL 
 
-> I do not fear bugs, I just negotiate with them until they disappear.
-
+> Writing code that works on my machine and yours. Hopefully.
 # Projects:
 - **[YourSpace](https://your-space-zeta.vercel.app/)** - A Real Estate application built with React, Node.js, MongoDB.
 - **[SehatSaathi](https://github.com/RIO-Repository/Fix-Up)** - An all-in-one fitness, nutrition, and health tracking web application platform built with React, Node.js, MongoDB.
