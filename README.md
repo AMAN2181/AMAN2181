@@ -2,13 +2,13 @@
 
 
 <div>
-  <h1 align="center">Hi, I am <i><s>Ironrman!</s></i> Aman Sah</h1>
-  <h3 align="center">Software Engineer | Exploring AI & LLMs | Video Editor </h3>
+  <h1 align="center">Hi, I am <i><s>Ironrman!</s></i> A - man </h1>
+  <h3 align="center">Software Engineer | Full Stack Developer | Exploring AI & LLMs | Video Editor </h3>
 </div>
 
 - About Me: Hi, I am **Aman Sah**, a developer who writes code that sometimes works exactly as planned 
 - **Currently Working On:** [YourSpace](https://your-space-zeta.vercel.app/)<br>
-- I’m currently learning - Node.js, Advanced Backend Development. 
+- Building full-stack apps while learning scalable backend systems and AI.
 - **Tech Stack:** Java, Python, JavaScript, React, Node.js, MySQL 
 
 > Writing code that works on my machine and yours. Hopefully.
