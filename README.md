@@ -6,17 +6,19 @@
   <h3 align="center">Software Engineer | Full Stack Developer | Exploring AI & LLMs | Video Editor </h3>
 </div>
 
-- About Me: Hi, I am **Aman Sah**, a developer who writes code that sometimes works exactly as planned 
-- **Currently Working On:** [YourSpace](https://your-space-zeta.vercel.app/)<br>
-- Building full-stack apps while learning scalable backend systems and AI.
-- **Tech Stack:** JavaScript, React.js, Node.js, Java, Python, MySQL
-
+- About Me: I’m a **Full-Stack Developer** focused on building scalable, user-centric software.
+- ### 🏗️ Current Stack 
+* **Languages:** JavaScript, Java, Python
+* **Frontend:** React, Next.js, HTML/CSS
+* **Backend:** Node.js, Express
+* **Database & ORM** MySQL, MongoDB
+* **Tools:** Git, Linux, Vercel, Netlify, VSCode
 > Writing code that works on my machine and yours. Hopefully.
-# Projects:
-- **[YourSpace](https://your-space-zeta.vercel.app/)** - A Real Estate application built with React, Node.js, MongoDB.
-- **[Portfolio Website](https://aman-portfolio-m3ef.vercel.app/)** - A personal portfolio platform built with React, Node.js, and MongoDB to showcase projects, skills, and experience.
-- **[CineStream](https://aman-sah.github.io/Movie-App/)** - A responsive movie app built with HTML, CSS, and JavaScript..
 
+### 🟢 Current Status
+* _**Available for work**_
+* **Current Project:** [YourSpace](https://your-space-zeta.vercel.app/)
+* **Learning:** AI Engineering, LLMs, and System Design
 
 <h3 align="left">My Stats:</h3>
 
