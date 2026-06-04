@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=aman-sah) 
 
-Hi, I am <i><s>Ironrman!</s></i>  Aman a **Full-Stack Developer** focused on building scalable, user-centric software.
-
+Hi, I am <i><s>Ironrman!</s></i> Aman 
 I’m a **Full-Stack Developer** focused on building scalable, user-centric software.
 ### 🏗️ Current Stack 
 * **Languages:** JavaScript, Java, Python
