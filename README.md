@@ -6,8 +6,8 @@
   <h3 align="center">Software Engineer | Full Stack Developer | Exploring AI & LLMs | Video Editor </h3>
 </div>
 
-- About Me: I’m a **Full-Stack Developer** focused on building scalable, user-centric software.
-- ### 🏗️ Current Stack 
+I’m a **Full-Stack Developer** focused on building scalable, user-centric software.
+### 🏗️ Current Stack 
 * **Languages:** JavaScript, Java, Python
 * **Frontend:** React, Next.js, HTML/CSS
 * **Backend:** Node.js, Express
