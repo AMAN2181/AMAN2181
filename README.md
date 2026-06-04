@@ -1,10 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=aman-sah) 
 
-
-<div>
-  <h1 align="center">Hi, I am <i><s>Ironrman!</s></i>  A-man </h1>
-  <h3 align="center">Software Engineer | Full Stack Developer | Exploring AI & LLMs | Video Editor </h3>
-</div>
+Hi, I am <i><s>Ironrman!</s></i>  Aman
 
 I’m a **Full-Stack Developer** focused on building scalable, user-centric software.
 ### 🏗️ Current Stack 
